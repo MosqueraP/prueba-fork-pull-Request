@@ -1,4 +1,5 @@
 # PROGRAMADORES
 
 - Plinio Mosquera 
-- Isidro Mosquera 
+- Isidro Mosquera
+- Howard Mosquera
